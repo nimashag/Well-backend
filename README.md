@@ -1,19 +1,19 @@
-# Well-backend
-this is the backend of the mobiledeveoped using react native for pregnant mothers
+# Pregnancy Path
+A mobile application for expectant mothers, offering personalized journal entries, memory visualization, vaccination guides, clinic schedules, and a daily habit tracker. Pregnancy Path empowers women by keeping them informed, organized, and connected throughout their pregnancy journey.
 
+## Features: 
+ - Personalized journal entries
+ - Highlight special moments
+ - Memory lane visualization
+ - Vaccination guide,
+ - Vaccination Schedule
+ - Vaccination Reminders
+ - Vaccination records
+ - Clinic guide
+ - Clinic date schedule
+ - Daily habit tracker
 
-#vercel ci/cd token 
-BZGl6Xbu85JxaaJnMUIrGfts
-
-connection string
-mongodb+srv://root:root@uee.gj6k6.mongodb.net/?retryWrites=true&w=majority&appName=uee
-
- "dev": "vercel dev",
-
- test token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2ZGQ2YzNkYTBiM2EwZWFlMzkyNzFhYyIsImlhdCI6MTcyNTc4NzE5NywiZXhwIjoxNzI4Mzc5MTk3fQ.nu_OoRwYPoGrvnv_SUmpByapuRv0ljYLpkt7PCUz9Ac
-
-
- # Setup ngrok locally
+ ## Setup ngrok locally
 
  ```
 choco install ngrok
